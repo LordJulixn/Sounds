@@ -1,0 +1,10 @@
+name: Sounds
+authors:
+  - LordJulixn
+version: '${project.version}'
+main: de.lordjulixn.sounds.Sounds
+api-version: '1.20'
+commands:
+  Sounds:
+    aliases:
+      - Sounds
